@@ -1,4 +1,4 @@
-@url = https://8080-marcoweb-sw2aapi-0jixm9t69tz.ws-us116.gitpod.io
+@url = https://8080-amandamendes16-sw2aapi-6h13bnty0rc.ws-us116.gitpod.io
 ###
 GET {{url}}/frutas
 
